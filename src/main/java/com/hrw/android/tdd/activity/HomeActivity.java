@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-import com.hrw.android.R;
+import com.hrw.android.tdd.R;
 
 public class HomeActivity extends Activity {
 
